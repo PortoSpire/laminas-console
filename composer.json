@@ -63,7 +63,7 @@
     "replace": {
         "zendframework/zend-console": "^2.8.0"
     }
-    "provides": {
+    "provide": {
         "laminas/laminas-console": "2.8.1"
     }
 }
